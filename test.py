@@ -1,6 +1,7 @@
-def test():
-    print("yes,youget first")
-    name="test"
-    print(111111111111)
-    return name
-test()
+#def test():
+#    print("yes,youget first")
+#    name="test"
+#    print(111111111111)
+#    return name
+#test()
+print("yes,youget first")
