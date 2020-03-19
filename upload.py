@@ -4,7 +4,7 @@ def test():
     a=os.environ
     print(a)
     TEST_ENV="22222222222222222"
-    os.putenv('NEW_ENV',"11111111111111111111")
+    os.environ['PWD'] = "/home/keke"
     b=os.environ
     print(b)
     print("upload yes")
