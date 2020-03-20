@@ -5,7 +5,7 @@ def test():
     print(a)
     os.environ['PWD'] = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
     print(1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111)
-    os.environ['HEHEHE'] = "000000000000000000"
+    os.environ['TEST_NEW_ENV'] = "000000000000000000"
     b=os.environ
     print(b)
     print("upload yes")
